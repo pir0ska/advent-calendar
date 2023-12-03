@@ -1,0 +1,58 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background-color: grey;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  grid-auto-rows: minmax(min-content, max-content);
+  gap: 0px 0px;
+  grid-gap: 0px;
+  width: 100vw;
+  height: 100vh;
+
+  background-image: url("./images/kieran-white-SBdmQcW8qag-unsplash.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: grey;
+  height: 100%;
+
+}
+
+.grid-item2 {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0px solid black;
+  font-size: 2em;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 1.5em;
+  line-height: 1.5em;
+  padding: 0.3em;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+  font-family: verdana;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px black;
+}
+
+.circle:hover {
+  background-color: hsl(199, 96%, 41%);
+  text-shadow: none;
+}
+
+.circle:active {
+  background-color: hsl(199, 96%, 41%, 0.5);
+  text-shadow: none;
+}
