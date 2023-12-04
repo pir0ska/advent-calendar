@@ -28,4 +28,4 @@ Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to
 
 # Screenshot
 
-<img src="./advent-calendar.png" alt="screenshot" />
+<img src="./screenshot-advent-calendar.png" alt="screenshot" />
