@@ -1,6 +1,6 @@
 # Info
-This is the structure of an advent calendar I made for a friend. The "real" calendar was different in that it was linking to songs on YouTube or to pictures of my friend and me.
-For privacy and copyright reasons I replaced these with links to Wikipedia pages about dog breeds. ("Ein Hyperlink auf Inhalte der Wikipedia ist erlaubnisfrei.")
+This is an advent calendar I made for a friend. The "real" calendar was different in that it was linking to songs on YouTube or to pictures of my friend and me.
+For privacy and copyright reasons I replaced these with links to Wikipedia pages about dog breeds. (["Ein Hyperlink auf Inhalte der Wikipedia ist erlaubnisfrei."](https://de.wikipedia.org/wiki/Hilfe:FAQ_Rechtliches#:~:text=Bei%20einer%20Weiternutzung%20von%20Mediendateien,aus%20der%20Wikipedia%20zu%20zitieren))
 
 If you hover over a number, it will have a blue circle around it. If you click on a number, the blue circle becomes more transparent.
 
