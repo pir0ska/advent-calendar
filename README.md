@@ -2,6 +2,8 @@
 This is the structure of an advent calendar I made for a friend. The "real" calendar was different in that it was linking to songs on YouTube or to pictures of my friend and me.
 For privacy and copyright reasons I replaced these with links to Wikipedia pages about dog breeds. ("Ein Hyperlink auf Inhalte der Wikipedia ist erlaubnisfrei.")
 
+If you hover over a number, it will have a blue circle around it. If you click on a number, the blue circle becomes more transparent.
+
 # Copyright Info
 
 Background picture by **Kieran White (kierancwhite) via Unsplash**
@@ -23,3 +25,7 @@ Compiling photos from Unsplash to replicate a similar or competing service.
 **Longform**
 
 Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
+
+# Screenshot
+
+<img src="./advent-calendar.png" alt="screenshot" />
